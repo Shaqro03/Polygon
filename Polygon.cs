@@ -6,5 +6,6 @@ internal class Polygon : Shape
     {
    
         Console.WriteLine($"Ankyuneri gumary :{(n - 2) * 180}");
+        Console.ReadKey();
     }
 }
